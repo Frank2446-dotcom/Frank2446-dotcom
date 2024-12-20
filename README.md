@@ -2,32 +2,32 @@
 
 00100, Nairobi, Kenya  
 Phone: +254716770021  
-Email: [ambetsafrankline@gmail.com]
-Portfolio:https://frank2446-dotcom.github.io/my_portfolio_professional/
-LinkedIn: https://www.linkedin.com/in/ambetsa-frankline/
-Facebook: https://www.facebook.com/profile.php?id=100081601457541
-Twitter: @expert91617
-Instagram: @ambetsa.frankline
+Email: [ambetsafrankline@gmail.com](mailto:ambetsafrankline@gmail.com)  
+Portfolio: [https://frank2446-dotcom.github.io/my_portfolio_professional/](https://frank2446-dotcom.github.io/my_portfolio_professional/)  
+LinkedIn: [https://www.linkedin.com/in/ambetsa-frankline/](https://www.linkedin.com/in/ambetsa-frankline/)  
+Facebook: [https://www.facebook.com/profile.php?id=100081601457541](https://www.facebook.com/profile.php?id=100081601457541)  
+Twitter: [@expert91617](https://twitter.com/expert91617)  
+Instagram: [@ambetsa.frankline](https://www.instagram.com/ambetsa.frankline/)  
 
 ---
 
 ## Personal Profile
 
-A motivated and innovative Software 
+A motivated and innovative Software  
 Developer/Engineer with over 3 years of  
-hands-on experience in designing, developing, 
+hands-on experience in designing, developing,  
 and maintaining software  
-applications across a range of platforms. 
+applications across a range of platforms.  
 Adept at using various programming  
-languages, I have a passion for problem-solving and 
+languages, I have a passion for problem-solving and  
 creating efficient  
-solutions through software. 
+solutions through software.  
 Skilled in both front-end and back-end  
-development, 
+development,  
 I excel in delivering high-quality, scalable solutions while  
-adhering to software engineering best practices. 
+adhering to software engineering best practices.  
 I am seeking to leverage my  
-skills in a dynamic environment that fosters 
+skills in a dynamic environment that fosters  
 professional growth.
 
 ---
@@ -93,24 +93,24 @@ professional growth.
 
 ### **Datatech Solutions Internship** (2023)
 
-- Developed and maintained data pipelines for
-- analyzing large datasets and  
-generating predictive models. Designed and
-implemented web-based software  
-applications to streamline business analytics.
-Collaborated with the data team  
-to provide comprehensive insights for internal and external stakeholders.  
-Utilized advanced data visualization techniques to deliver reports and  
-dashboards.
+- Developed and maintained data pipelines for  
+  analyzing large datasets and  
+  generating predictive models. Designed and  
+  implemented web-based software  
+  applications to streamline business analytics.  
+  Collaborated with the data team  
+  to provide comprehensive insights for internal and external stakeholders.  
+  Utilized advanced data visualization techniques to deliver reports and  
+  dashboards.
 
 ### **NexGen Software Solutions Internship** (2024)
 
-- Assisted in the development of software applications
-- for data management and  
-business automation.
-Provided technical support and troubleshooting for  
-existing systems. Participated in regular code reviews and worked with  
-cross-functional teams.
+- Assisted in the development of software applications  
+  for data management and  
+  business automation.  
+  Provided technical support and troubleshooting for  
+  existing systems. Participated in regular code reviews and worked with  
+  cross-functional teams.
 
 ---
 
@@ -118,30 +118,30 @@ cross-functional teams.
 
 ### **Mobile Payment App**
 
-- Developed a cross-platform mobile app using Flutter and Firebase.
+- Developed a cross-platform mobile app using Flutter and Firebase.  
 - The app  
-allowed users to make secure online payments,
-incorporating biometric security  
-and push notifications.
+  allowed users to make secure online payments,  
+  incorporating biometric security  
+  and push notifications.
 
 ### **E-Commerce Website**
 
 - Built a full-stack e-commerce web application using React, Node.js, and  
-MongoDB. The platform supported user authentication, product catalog  
-management, and a shopping cart with integrated payment processing.
+  MongoDB. The platform supported user authentication, product catalog  
+  management, and a shopping cart with integrated payment processing.
 
 ### **Real-Time Chat Application**
 
-- Created a scalable, real-time chat application
-- using WebSocket technology.  
-Built with JavaScript, Node.js, and MongoDB, focusing on scalability.
+- Created a scalable, real-time chat application  
+  using WebSocket technology.  
+  Built with JavaScript, Node.js, and MongoDB, focusing on scalability.
 
 ---
 
 ## Certifications
 
 - Software Development, PLP Academy (2024)  
-- Computer Science, University of the People (USA) (Ongoing)
+- Computer Science, University of the People (Ongoing)  
 - Civil/Structural Engineering, TENP (2021)
 
 ---
@@ -169,6 +169,6 @@ Built with JavaScript, Node.js, and MongoDB, focusing on scalability.
 
 ## 🚀 Let’s Connect and Build Together
 
-Reach out through any of the platforms listed above. 
+Reach out through any of the platforms listed above.  
 I'm always excited to  
 collaborate on innovative projects and discuss new opportunities!
