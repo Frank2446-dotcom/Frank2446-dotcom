@@ -13,7 +13,8 @@ Instagram: [ambetsa.frankline](https://www.instagram.com/ambetsa.frankline/)
 
 ## Personal Profile
 
-A motivated and innovative Software Developer/Engineer with over 3 years of hands-on experience in designing, developing, and maintaining software applications across a range of platforms. Adept at using various programming languages, I have a passion for problem-solving and creating efficient solutions through software. Skilled in both front-end and back-end development, I excel in delivering high-quality, scalable solutions while adhering to software engineering best practices. I am seeking to leverage my skills in a dynamic environment that fosters professional growth.
+A motivated and innovative Software Developer/Engineer with over 3 years of hands-on experience in designing, developing, and maintaining software applications across a range of platforms. Adept at using various programming languages, I have a passion for problem-solving and creating efficient solutions through software. Skilled in both front-end and back-end development, I excel in delivering high-quality, scalable solutions while adhering to software engineering best practices.  
+I am seeking to leverage my skills in a dynamic environment that fosters professional growth.
 
 ---
 
@@ -21,16 +22,16 @@ A motivated and innovative Software Developer/Engineer with over 3 years of hand
 
 - **University of Nairobi**  
   Bachelor of Science in Statistics and Data Analysis  
-  Graduated: 2021
+  Graduated: 2021  
 - **PLP Academy**  
   Graduate Certificate in Software Development  
-  Graduated: 2024
+  Graduated: 2024  
 - **The Eldoret National Polytechnic**  
   Diploma in Civil/Structural Engineering  
-  Graduated: 2021
+  Graduated: 2021  
 - **University of the People (USA)**  
   Undergraduate Bachelor's Degree in Computer Science  
-  Ongoing, Expected Graduation: 2026
+  Ongoing, Expected Graduation: 2026  
 - **MIT - Massachusetts Institute of Technology (USA)**  
   Undergraduate Certificate in Data Analysis and Statistics  
   Ongoing, Expected Graduation: 2026
