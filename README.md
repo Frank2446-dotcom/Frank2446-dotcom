@@ -9,5 +9,3 @@ LinkedIn: [ambetsa-frankline](https://www.linkedin.com/in/ambetsa-frankline/)
 Facebook: [Frankline's Profile](https://www.facebook.com/profile.php?id=100081601457541&_rdc=1&_rdr)  
 Twitter: [@expert91617](https://x.com/expert91617)  
 Instagram: [ambetsa.frankline](https://www.instagram.com/ambetsa.frankline/)
-
----
