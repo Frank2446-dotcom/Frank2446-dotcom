@@ -13,7 +13,11 @@ Instagram: [ambetsa.frankline](https://www.instagram.com/ambetsa.frankline/)
 
 ## Personal Profile
 
-A motivated and innovative Software Developer/Engineer with over 3 years of hands-on experience in designing, developing, and maintaining software applications across a range of platforms. Adept at using various programming languages, I have a passion for problem-solving and creating efficient solutions through software. Skilled in both front-end and back-end development, I excel in delivering high-quality, scalable solutions while adhering to software engineering best practices.  
+A motivated and innovative Software Developer/Engineer with over 3 years of hands-on experience in designing, 
+developing, and maintaining software applications across a range of platforms. Adept at using various programming languages, 
+I have a passion for problem-solving and creating efficient solutions through software. 
+Skilled in both front-end and back-end development, I excel in delivering high-quality, 
+scalable solutions while adhering to software engineering best practices.  
 I am seeking to leverage my skills in a dynamic environment that fosters professional growth.
 
 ---
