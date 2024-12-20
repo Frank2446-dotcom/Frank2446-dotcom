@@ -14,15 +14,13 @@ Instagram: [ambetsa.frankline](https://www.instagram.com/ambetsa.frankline/)
 
 ## Personal Profile
 
-A motivated and innovative Software Developer/Engineer with over 3  
-years of hands-on experience in designing, developing, and maintaining  
-software applications across a range of platforms. Adept at using  
-various programming languages, I have a passion for problem-solving  
-and creating efficient solutions through software. Skilled in both  
-front-end and back-end development, I excel in delivering high-quality,  
-scalable solutions while adhering to software engineering best practices.  
-I am seeking to leverage my skills in a dynamic environment that fosters  
-professional growth.
+A motivated and innovative Software Developer/Engineer with over 3 years of hands-on  
+experience in designing, developing, and maintaining software applications across a range  
+of platforms. Adept at using various programming languages, I have a passion for  
+problem-solving and creating efficient solutions through software. Skilled in both front-end  
+and back-end development, I excel in delivering high-quality, scalable solutions while  
+adhering to software engineering best practices. I am seeking to leverage my skills in a  
+dynamic environment that fosters professional growth.
 
 ---
 
@@ -87,22 +85,21 @@ professional growth.
 
 ### **Datatech Solutions Internship** (2023)
 
-- Developed and maintained data pipelines for analyzing large  
-  datasets and generating predictive models.  
-- Designed and implemented web-based software applications to  
-  streamline business analytics.  
-- Collaborated with the data team to provide comprehensive insights  
-  for internal and external stakeholders.  
-- Utilized advanced data visualization techniques to deliver reports  
-  and dashboards.
+- Developed and maintained data pipelines for analyzing large datasets  
+  and generating predictive models.  
+- Designed and implemented web-based software applications to streamline  
+  business analytics.  
+- Collaborated with the data team to provide comprehensive insights for  
+  internal and external stakeholders.  
+- Utilized advanced data visualization techniques to deliver reports and  
+  dashboards.
 
 ### **NexGen Software Solutions Internship** (2024)
 
-- Assisted in the development of software applications for data  
-  management and business automation.  
+- Assisted in the development of software applications for data management  
+  and business automation.  
 - Provided technical support and troubleshooting for existing systems.  
-- Participated in regular code reviews and worked with cross-functional  
-  teams.
+- Participated in regular code reviews and worked with cross-functional teams.
 
 ---
 
@@ -123,8 +120,7 @@ professional growth.
 
 ### **Real-Time Chat Application**
 
-- Created a scalable, real-time chat application using WebSocket  
-  technology.  
+- Created a scalable, real-time chat application using WebSocket technology.  
 - Built with JavaScript, Node.js, and MongoDB, focusing on scalability.
 
 ---
@@ -160,6 +156,5 @@ professional growth.
 
 ## 🚀 Let’s Connect and Build Together
 
-Reach out through any of the platforms listed above. I'm always  
-excited to collaborate on innovative projects and discuss new  
-opportunities!
+Reach out through any of the platforms listed above. I'm always excited to  
+collaborate on innovative projects and discuss new opportunities!
