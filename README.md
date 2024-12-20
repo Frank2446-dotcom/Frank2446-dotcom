@@ -1,44 +1,84 @@
-# 🚀 About Me
+<h1 align="center">Hi 👋, I'm Frankline Alele Ambetsa</h1>
+<h3 align="center">🎓 Software Developer | Data Analyst | Machine Learning Enthusiast</h3>
 
-Hi there! I’m passionate about creating value through technology, data, and innovation. Below is a glimpse into what I do and the tools I use.
+<p>🚀 <strong>About Me</strong></p>
+<ul>
+    <li><strong>Data Science and Analytics:</strong> Skilled in statistical modeling, machine learning, and advanced tools like Tableau, Power BI, and Python.</li>
+    <li><strong>Software Engineering:</strong> Proficient in building robust applications using Python, JavaScript, Dart, and more.</li>
+    <li><strong>Civil Engineering:</strong> Leveraging my engineering background for data-driven decision-making in structural design.</li>
+</ul>
 
-## 💡 What I Do
+<p>💡 <strong>What I Do:</strong></p>
+<ul>
+    <li><strong>Founder & CEO, WSpace AI:</strong> Software Development, AI, and Robotics solutions.</li>
+    <li><strong>Founder & CEO, Datrail Analytics:</strong> Data analysis and business intelligence services.</li>
+</ul>
 
-- **Founder & CEO, WSpace AI:** Leading a tech startup focused on AI-driven solutions.
-- **Data Science Enthusiast:** Specializing in predictive modeling, data visualization, and machine learning.
+<p>📜 I have a solid academic foundation, holding degrees in Data Analysis, Software Development, and Civil Engineering. I’m currently pursuing a Bachelor’s in Computer Science at the University of the People.</p>
 
-## 🌱 Currently
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=frank2446-dotcom&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-- 🔭 Working on [WSpace AI Company Website](https://example.com).
-- 🌱 Exploring advancements in **Generative AI** and **Quantum Computing**.
-- 🧠 Learning **Rust** for systems programming.
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+        <img src="https://github-profile-trophy.vercel.app/?username=frank2446-dotcom" alt="GitHub Trophies" />
+    </a>
+</p>
 
-## 📝 Writing & Projects
+<p align="center">
+    <a href="https://twitter.com/@expert91617" target="_blank">
+        <img src="https://img.shields.io/twitter/follow/@expert91617?logo=twitter&style=for-the-badge" alt="Twitter Follow Badge" />
+    </a>
+</p>
 
-- 👨‍💻 Explore my work: [Portfolio](https://example.com/portfolio).
-- ✍️ Published articles on Medium: [Medium Profile](https://medium.com/@username).
+- 🔭 I’m currently working on [WSpace AI Company Website](https://frank-expert.github.io/WW-Space-AI/)
 
-## 📫 Let's Connect
+- 🌱 I’m currently enrolled in Foundation track for **Certificate in Computer and Data Science at MIT Emerging Talent**
 
-Feel free to reach out or ask questions:
-- 💬 Topics: **Artificial Intelligence**, **Startups**, **Data Science**
-- 📧 Email: [ambetsafrankline@gmail.com](mailto:ambetsafrankline@gmail.com)
+- 👯 I’m looking to collaborate on [Datrail Analytics Website](https://frank-expert.github.io/Datrail-Analytics/)
 
-## 🌐 Socials
+- 🤝 I’m looking for help with [Afrizone](https://frank-expert.github.io/afrizone/)
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/yourprofile)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://frank2446-dotcom.github.io/my_portfolio_professional/)
 
-## 🛠️ Tools & Technologies
+- 📝 I regularly write articles on [Medium](https://medium.com/@ambetsafrankline)
 
-Here are some tools and technologies I frequently use:
+- 💬 Ask me about **Artificial Intelligence**
 
-[![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org)
-[![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=R&logoColor=white)](https://www.r-project.org)
-[![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)](https://code.visualstudio.com)
+- 📫 How to reach me **ambetsafrankline@gmail.com**
 
-## 📊 Stats
+- 📄 Know about my experiences [Resume](https://frank2446-dotcom.github.io/my_portfolio_professional/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+- ⚡ Fun fact **I am funny**
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+    <a href="https://twitter.com/@expert91617" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30" />
+    </a>
+    <a href="https://instagram.com/ambetsa.frankline" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30" />
+    </a>
+</p>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+    <!-- Add icons for tools with uniform sizes -->
+    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" />
+    </a>
+    <!-- Continue this format for all tools -->
+</p>
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=frank2446-dotcom&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=frank2446-dotcom&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frank2446-dotcom&" alt="GitHub Streak Stats" />
+</p>
