@@ -3,9 +3,9 @@
 00100, Nairobi, Kenya  
 Phone: +254716770021  
 Email: [ambetsafrankline@gmail.com](mailto:ambetsafrankline@gmail.com)  
-Portfolio: [https://frank2446-dotcom.github.io/my_portfolio_professional/](https://frank2446-dotcom.github.io/my_portfolio_professional/)  
-LinkedIn: [https://www.linkedin.com/in/ambetsa-frankline/](https://www.linkedin.com/in/ambetsa-frankline/)  
-Facebook: [https://www.facebook.com/profile.php?id=100081601457541](https://www.facebook.com/profile.php?id=100081601457541)  
+Portfolio: [My Portfolio](https://frank2446-dotcom.github.io/my_portfolio_professional/)  
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/ambetsa-frankline/)  
+Facebook: [Facebook](https://www.facebook.com/profile.php?id=100081601457541)  
 Twitter: [@expert91617](https://twitter.com/expert91617)  
 Instagram: [@ambetsa.frankline](https://www.instagram.com/ambetsa.frankline/)  
 
